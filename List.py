@@ -8,3 +8,16 @@ print(List[0:4]), # is used to print the values from 0 to 4 values at a time
 
 List.insert(2, "Sharma")
 print(List)
+
+# updating the values
+
+List[1] = "NEETHU"
+print(List)
+
+List.append("End")
+print(List)
+
+# deleting values in the list.
+
+del List[1]
+print(List)
