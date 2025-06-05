@@ -6,3 +6,10 @@ print(Tuple)
 
 
 print(Tuple[1])
+
+
+person = (31,"Santhosh",5.9,1,2)
+
+print(person)
+print(person[2])
+print(person[1:4])
