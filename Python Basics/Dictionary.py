@@ -14,3 +14,4 @@ Dict["b"] = 9
 
 print(Dict)
 print("Last Name")
+print(Dict[6])
